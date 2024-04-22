@@ -1,4 +1,4 @@
-# Welcome to the JC Travels Solution 🎓
+# Welcome to the Travels Solution 🎓
 
 🌐 Explore, Book, Enjoy - Your Ultimate Hotel Booking Solution
 
@@ -64,9 +64,7 @@ Thank you, JC contributors, for your hard work, dedication, and for being an int
 
 Keep coding brilliantly!
 
-[Sk Mirajul islam]
-[Susshrita Jana]
-[Aishiki Mondal]
+RAJAN
 
 ## License
 
