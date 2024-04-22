@@ -44,7 +44,7 @@ Live version : Not available right now. But deployed link is published very soon
 
 **For cloning** 
 ```
- git clone https://github.com/skmirajulislam/JourneyCusine.git
+ git clone https://github.com/rajan1622/Hotel_booking.git
 ```
 
 Inside JourneyCusine
@@ -63,13 +63,7 @@ A heartfelt thank you to all the amazing contributors who have poured their time
 Thank you, JC contributors, for your hard work, dedication, and for being an integral part of this incredible community.
 
 Keep coding brilliantly!
-
 RAJAN
-
-## License
-
-- [MIT](https://github.com/skmirajulislam/Majorproject.github.io/blob/master/LICENSE-MIT)
-- [Mozilla Public License 2.0](https://github.com/skmirajulislam/Majorproject.github.io/blob/master/LICENSE)
 
 
 
